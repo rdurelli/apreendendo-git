@@ -1,0 +1,190 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bernardi2009CTI}
+M.~L. Bernardi and G.~A. Di~Lucca.
+\newblock Conan: A tool for the identification of crosscutting concerns in
+  object oriented systems based on type hierarchy analysis.
+\newblock In {\em Proceedings of the 2009 16th Working Conference on Reverse
+  Engineering}, Washington, DC, USA, 2009. IEEE Computer Society.
+
+\bibitem{brantHot}
+J.~Brant.
+\newblock {\em HotDraw}.
+\newblock Masters thesis, 1995.
+
+\bibitem{Breu:2004:AMU:1025115.1025235}
+S.~Breu and J.~Krinke.
+\newblock Aspect mining using event traces.
+\newblock In {\em Proceedings of the 19th IEEE international conference on
+  Automated software engineering}, Washington, DC, USA, 2004. IEEE Computer
+  Society.
+
+\bibitem{Bruntink2005}
+M.~Bruntink, A.~van Deursen, R.~van Engelen, and T.~Tourwe.
+\newblock On the use of clone detection for identifying crosscutting concern
+  code.
+\newblock {\em IEEE Trans. Softw. Eng.}, 31:804--818, October 2005.
+
+\bibitem{Ceccato:2008:ASM:1545010.1545380}
+M.~Ceccato.
+\newblock Automatic support for the migration towards aspects.
+\newblock In {\em Proceedings of the 2008 12th European Conference on Software
+  Maintenance and Reengineering}, pages 298--301, Washington, DC, USA, 2008.
+  IEEE Computer Society.
+
+\bibitem{Ceccato2009}
+M.~Ceccato and P.~Tonella.
+\newblock Dynamic aspect mining.
+\newblock {\em Software, IET}, 3(4):321 --336, august 2009.
+
+\bibitem{cojocar}
+G.~Cojocar and G.~Czibula.
+\newblock On clustering based aspect mining.
+\newblock In {\em Intelligent Computer Communication and Processing, 2008. ICCP
+  2008. 4th International Conference on}, pages 129 --136, aug. 2008.
+
+\bibitem{Dyba}
+T.~Dyba, T.~Dingsoyr, and G.~K. Hanssen.
+\newblock Applying systematic reviews to diverse study types: An experience
+  report.
+\newblock In {\em First International Symposium on Empirical Software
+  Engineering and Measurement}, ESEM '07, pages 225--234, Washington, DC, USA,
+  2007. IEEE Computer Society.
+
+\bibitem{Eaddy:2008:CTR:1437898.1438590}
+M.~Eaddy, A.~V. Aho, G.~Antoniol, and Y.-G. Gu{\'e}h{\'e}neuc.
+\newblock Cerberus: Tracing requirements to source code using information
+  retrieval, dynamic analysis, and program analysis.
+\newblock In {\em Proceedings of the 2008 The 16th IEEE International
+  Conference on Program Comprehension}, pages 53--62, Washington, DC, USA,
+  2008. IEEE Computer Society.
+
+\bibitem{Eaddy}
+M.~Eaddy, T.~Zimmermann, K.~D. Sherwood, V.~Garg, G.~C. Murphy, N.~Nagappan,
+  and A.~V. Aho.
+\newblock Do crosscutting concerns cause defects?
+\newblock {\em IEEE Trans. Softw. Eng.}, 34:497--515, July 2008.
+
+\bibitem{Griswold}
+W.~G. Griswold, Y.~K. Y, and J.~J. Yuan.
+\newblock Aspect browser: Tool support for managing dispersed aspects.
+\newblock In {\em In First Workshop on Multi-Dimensional Separation of Concerns
+  in Object-oriented Systems - OOPSLA 99}, 1999.
+
+\bibitem{Huang:2010:AMU:1901615.1902239}
+J.~Huang, Y.~Lu, and J.~Yang.
+\newblock Aspect mining using link analysis.
+\newblock In {\em Proceedings of the 2010 Fifth International Conference on
+  Frontier of Computer Science and Technology}, pages 312--317, Washington, DC,
+  USA, 2010. IEEE Computer Society.
+
+\bibitem{Ishio:2008:MCP:1447565.1448040}
+T.~Ishio, H.~Date, T.~Miyake, and K.~Inoue.
+\newblock Mining coding patterns to detect crosscutting concerns in java
+  programs.
+\newblock In {\em Proceedings of the 2008 15th Working Conference on Reverse
+  Engineering}, pages 123--132, Washington, DC, USA, 2008. IEEE Computer
+  Society.
+
+\bibitem{Kellens}
+A.~Kellens, K.~Mens, and P.~Tonella.
+\newblock Transactions on aspect-oriented software development iv.
+\newblock chapter A survey of automated code-level aspect mining techniques,
+  pages 143--162. Berlin, Heidelberg, 2007.
+
+\bibitem{Kitchenham}
+B.~Kitchenham, O.~Pearl~Brereton, D.~Budgen, M.~Turner, J.~Bailey, and
+  S.~Linkman.
+\newblock Systematic literature reviews in software engineering.
+\newblock {\em Information and Software Technology}, 51:7--15, January 2009.
+
+\bibitem{Maisikeli:2009:AMU:1626886}
+S.~G. Maisikeli.
+\newblock {\em Aspect mining using self-organizing maps with method level
+  dynamic software metrics as input vectors}.
+\newblock PhD thesis, 2010.
+
+\bibitem{Malheiros:2007}
+V.~Malheiros, E.~Hohn, R.~Pinho, M.~Mendonca, and J.~C. Maldonado.
+\newblock A visual text mining approach for systematic reviews.
+\newblock In {\em Proceedings of the First International Symposium on Empirical
+  Software Engineering and Measurement}, ESEM '07, pages 245--254, Washington,
+  DC, USA, 2007. IEEE Computer Society.
+
+\bibitem{Marin2007}
+M.~Marin, A.~V. Deursen, and L.~Moonen.
+\newblock Identifying crosscutting concerns using fan-in analysis.
+\newblock {\em ACM Trans. Softw. Eng. Methodol.}, 17:3:1--3:37, December 2007.
+
+\bibitem{Marin:2006:CFA:1174510.1174715}
+M.~Marin, L.~Moonen, and A.~van Deursen.
+\newblock A common framework for aspect mining based on crosscutting concern
+  sorts.
+\newblock In {\em Proceedings of the 13th Working Conference on Reverse
+  Engineering}, pages 29--38, Washington, DC, USA, 2006. IEEE Computer Society.
+
+\bibitem{Mulder:2010:ICC:1862372.1862381}
+F.~Mulder and A.~Zaidman.
+\newblock Identifying cross-cutting concerns using software repository mining.
+\newblock In {\em International Workshop on Principles of Software Evolution},
+  pages 23--32, New York, NY, USA, 2010. ACM.
+
+\bibitem{Nguyen2011}
+T.~T. Nguyen, H.~V. Nguyen, H.~A. Nguyen, and T.~N. Nguyen.
+\newblock Aspect recommendation for evolving software.
+\newblock In {\em Proceedings of the 33rd International Conference on Software
+  Engineering}, ICSE '11, pages 361--370, New York, NY, USA, 2011. ACM.
+
+\bibitem{Nora}
+B.~Nora and S.~Ghoul.
+\newblock A model-driven approach to aspect mining.
+\newblock In {\em Proceedings of the 27th International Conference on Software
+  Engineering}, pages 361--370, New York, NY, USA, 2006. ACM.
+
+\bibitem{Qu:2007:AMU:1262690.1262897}
+L.~Qu and D.~Liu.
+\newblock Aspect mining using method call tree.
+\newblock In {\em Proceedings of the 2007 International Conference on
+  Multimedia and Ubiquitous Engineering}, pages 407--412, Washington, DC, USA,
+  2007. IEEE Computer Society.
+
+\bibitem{Shepherd:2005:ULC:1083125.1083129}
+D.~Shepherd, L.~Pollock, and T.~Tourw{\'e}.
+\newblock Using language clues to discover crosscutting concerns.
+\newblock In {\em Proceedings of the 2005 workshop on Modeling and analysis of
+  concerns in software}, pages 1--6, New York, NY, USA, 2005. ACM.
+
+\bibitem{Tourwe:2004:MAV:1018444.1022149}
+T.~Tourwe and K.~Mens.
+\newblock Mining aspectual views using formal concept analysis.
+\newblock In {\em Source Code Analysis and Manipulation, Fourth IEEE
+  International Workshop}, pages 97--106, Washington, DC, USA, 2004. IEEE
+  Computer Society.
+
+\bibitem{Trifu:2008:UDI:1545010.1545363}
+M.~Trifu.
+\newblock Using dataflow information for concern identification in
+  object-oriented software systems.
+\newblock In {\em Proceedings of the 2008 12th European Conference on Software
+  Maintenance and Reengineering}, pages 193--202, Washington, DC, USA, 2008.
+  IEEE Computer Society.
+
+\bibitem{Wohlin}
+C.~Wohlin, P.~Runeson, M.~H\"{o}st, M.~C. Ohlsson, B.~Regnell, and
+  A.~Wessl\'{e}n.
+\newblock {\em Experimentation in software engineering: an introduction}.
+\newblock Kluwer Academic Publishers, Norwell, MA, USA, 2000.
+
+\bibitem{CharlesZhang2011}
+C.~Zhang and H.-A. Jacobsen.
+\newblock Mining crosscutting concerns through random walks.
+\newblock {\em IEEE Transactions on Software Engineering}, 2011.
+
+\bibitem{Danfeng}
+D.~Zhang, Y.~Guo, and X.~Chen.
+\newblock Automated aspect recommendation through clustering-based fan-in
+  analysis.
+\newblock In {\em Automated Software Engineering, 2008. ASE 2008. 23rd IEEE/ACM
+  International Conference on}, pages 278 --287, 2008.
+
+\end{thebibliography}

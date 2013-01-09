@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Arch Linux)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: acmSac2013.aux
+The style file: abbrv.bst
+Database file #1: acmSac2013.bib
+Warning--empty school in brantHot
+Warning--empty booktitle in Kellens
+Warning--empty publisher in Kellens
+Warning--empty school in Maisikeli:2009:AMU:1626886
+You've used 29 entries,
+            2118 wiz_defined-function locations,
+            691 strings with 10105 characters,
+and the built_in function-call counts, 12025 in all, are:
+= -- 1259
+> -- 513
+< -- 18
++ -- 204
+- -- 172
+* -- 791
+:= -- 1859
+add.period$ -- 104
+call.type$ -- 29
+change.case$ -- 171
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 521
+empty$ -- 934
+format.name$ -- 172
+if$ -- 2666
+int.to.chr$ -- 0
+int.to.str$ -- 29
+missing$ -- 28
+newline$ -- 148
+num.names$ -- 58
+pop$ -- 209
+preamble$ -- 1
+purify$ -- 144
+quote$ -- 0
+skip$ -- 385
+stack$ -- 0
+substring$ -- 767
+swap$ -- 177
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 114
+warning$ -- 4
+while$ -- 116
+width$ -- 31
+write$ -- 350
+(There were 4 warnings)
